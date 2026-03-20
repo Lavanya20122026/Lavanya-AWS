@@ -1,7 +1,7 @@
-# AWS Learning Journey 
+# AWS Solution Architect Learning Journey 
 
 ##  About
-This repository documents my hands-on AWS learning as I prepare for the AWS Certified Solutions Architect (SAA) exam.
+This repository documents my hands-on AWS learning 
 
 ##  Objective
 - Build strong cloud fundamentals
