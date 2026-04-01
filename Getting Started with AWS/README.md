@@ -1,4 +1,5 @@
 What was done ?
+
     Created AWS account using root user email
     Set up secure password (as per AWS requirements)
     Selected Free Tier plan for safe learning
@@ -9,6 +10,7 @@ What was done ?
     Logged into AWS Management Console
 
 Key concepts understood :
+
     AWS is a global cloud platform
     Services are divided into:
     Global services (e.g., IAM)
@@ -20,6 +22,7 @@ Key concepts understood :
         Cost
 
 Console familiarity
+
     Navigated AWS Console dashboard
     Understood:
     Region selector (top right)
@@ -31,6 +34,7 @@ Console familiarity
         Recently used services
 
 Imp Notes :
+
     Always select region closest to users (for performance)
     Stick to one region during learning
     Not all services are available in every region
